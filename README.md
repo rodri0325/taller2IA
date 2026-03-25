@@ -1,7 +1,7 @@
 # Workshop 2 – Machine Learning & Deep Learning Aplicado
 
 **Universidad EAFIT · Introducción a la Inteligencia Artificial**  
-Autores: Abraham · David Rodriguez
+Autores: Abraham Navarro · David Rodriguez
 
 ---
 
